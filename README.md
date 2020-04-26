@@ -6,5 +6,3 @@ This project is for learning how to devlelop flutter application.
 
 Check this flutter official docs.
 https://flutter.dev/docs/get-started/codelab
-
-
